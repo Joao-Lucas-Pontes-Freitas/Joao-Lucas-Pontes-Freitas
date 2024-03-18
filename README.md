@@ -17,28 +17,31 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 ## Minhas Skills 💻
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 45%;">
-        <h4>Linguagens dominadas:</h4>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">&nbsp;
-        <img src="https://img.shields.io/badge/SwiftUI-34AADC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">&nbsp;
-        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">&nbsp;
-    </div>
-    <div style="width: 45%;">
-        <h4>Soft Skills:</h4>
-        <p>🚀 Liderança<br>
-        💡 Resolução criativa de problemas<br>
-        🤝 Trabalho em equipe<br>
-        📚 Aprendizado rápido<br>
-        🎯 Foco e determinação<br>
-        🎓 Curiosidade para aprender<br>
-        🎙️ Oratória</p>
-    </div>
+#### Linguagens dominadas:
+
+<div style="float: left; width: 50%;">
+    <ul style="list-style-type: none; padding-left: 0;">
+        <li> - Python </li>
+        <li> - Java </li>
+        <li> - JavaScript </li>
+        <li> - TypeScript </li>
+        <li> - SQL </li>
+        <li> - SwiftUI </li>
+        <li> - R </li>
+    </ul>
 </div>
+
+<div style="float: left; width: 50%;">
+    <h4>Soft Skills:</h4>
+    <ul style="list-style-type: none; padding-left: 0;">
+        <li> Comunicação eficaz </li>
+        <li> Resolução criativa de problemas </li>
+        <li> Trabalho em equipe </li>
+        <li> Aprendizado rápido </li>
+        <li> Foco e determinação </li>
+    </ul>
+</div>
+
 
 
 
