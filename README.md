@@ -17,33 +17,23 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 ## Minhas Skills 💻
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <h4>Linguagens dominadas:</h4>
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li><img src="https://img.icons8.com/color/48/000000/python.png"/> Python</li>
-            <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java</li>
-            <li><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/> JavaScript</li>
-            <li><img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</li>
-            <li><img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL</li>
-            <li><img src="https://img.icons8.com/color/48/000000/swift.png"/> SwiftUI</li>
-            <li><img src="https://img.icons8.com/color/48/000000/r.png"/> R</li>
-        </ul>
-    </div>
-    <div style="flex: 1;">
-        <h4>Soft Skills:</h4>
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li>🚀 Comunicação eficaz</li>
-            <li>💡 Resolução criativa de problemas</li>
-            <li>🤝 Trabalho em equipe</li>
-            <li>📚 Aprendizado rápido</li>
-            <li>🎯 Foco e determinação</li>
-        </ul>
-    </div>
-</div>
+#### Linguagens dominadas:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![SwiftUI](https://img.shields.io/badge/SwiftUI-34AADC?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
+#### Soft Skills:
 
+🚀 Comunicação eficaz\
+💡 Resolução criativa de problemas\
+🤝 Trabalho em equipe\
+📚 Aprendizado rápido\
+🎯 Foco e determinação
 
 #### Estudando Atualmente:
 
