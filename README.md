@@ -8,14 +8,9 @@
 
 Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
-<div style="display: flex; justify-content: center; padding: 50px;"><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats" >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Pontes-Freitas&show_icons=true&theme=transparent" />
-  </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-Pontes-Freitas&theme=transparent&layout=compact&langs_count=6" />
-  </a>
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Joao-Lucas-Pontes-Freitas&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 
  &nbsp;
