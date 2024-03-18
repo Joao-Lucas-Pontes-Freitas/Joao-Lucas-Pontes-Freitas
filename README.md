@@ -17,8 +17,8 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 ## Minhas Skills 💻
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 45%;">
+<div style="display: flex;">
+    <div style="flex: 1;">
         <h4>Linguagens dominadas:</h4>
         <ul style="list-style-type: none; padding-left: 0;">
             <li><img src="https://img.icons8.com/color/48/000000/python.png"/> Python</li>
@@ -30,7 +30,7 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
             <li><img src="https://img.icons8.com/color/48/000000/r.png"/> R</li>
         </ul>
     </div>
-    <div style="width: 45%;">
+    <div style="flex: 1;">
         <h4>Soft Skills:</h4>
         <ul style="list-style-type: none; padding-left: 0;">
             <li>🚀 Comunicação eficaz</li>
@@ -41,6 +41,7 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
         </ul>
     </div>
 </div>
+
 
 
 
