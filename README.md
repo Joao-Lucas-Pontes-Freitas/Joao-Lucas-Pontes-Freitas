@@ -29,11 +29,15 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 #### Soft Skills:
 
-🚀 Comunicação eficaz\
-💡 Resolução criativa de problemas\
+🚀 Liderança\
+💡 Iniciativa\
 🤝 Trabalho em equipe\
+🧘‍♂️ Flexibilidade\
 📚 Aprendizado rápido\
-🎯 Foco e determinação
+🎯 Foco e determinação\
+🎓 Curiosidade para aprender\
+🎙️ Oratória\
+💼 Profissionalismo
 
 ## Estudando Atualmente 🎓
 
