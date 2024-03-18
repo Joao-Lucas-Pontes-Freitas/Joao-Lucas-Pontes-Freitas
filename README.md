@@ -9,7 +9,6 @@
 Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Joao-Lucas-Pontes-Freitas&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Joao-Lucas-Pontes-Freitas&show_icons=true&theme=radical&layout=compact" />
  </div>
  
