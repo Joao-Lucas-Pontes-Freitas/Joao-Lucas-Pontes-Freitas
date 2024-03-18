@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-## Sobre mim 😄
+## Sobre mim
 
 Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
@@ -14,8 +14,6 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
  
  &nbsp;
  &nbsp;
-
-
 
 ## Minhas Skills 💻
 
