@@ -10,10 +10,10 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 <div style="display: flex; justify-content: center; padding: 50px;"><br>
   <a href="https://github.com/anuraghazra/github-readme-stats" >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardroberg&show_icons=true&theme=transparent" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-Lucas-Pontes-Freitas&show_icons=true&theme=transparent" />
   </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardroberg&theme=transparent&layout=compact&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-Pontes-Freitas&theme=transparent&layout=compact&langs_count=6" />
   </a>
 </div>
 
