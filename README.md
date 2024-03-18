@@ -54,5 +54,6 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 <div> 
 <a href = "mailto:joaolucaspontes10@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c42528?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joão-lucas-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://github.com/Joao-Lucas-Pontes-Freitas/Exposicao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>    
 </div>&nbsp;&nbsp;
  
