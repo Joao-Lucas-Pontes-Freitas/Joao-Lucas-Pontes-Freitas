@@ -35,9 +35,10 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 📚 Aprendizado rápido\
 🎯 Foco e determinação
 
-#### Estudando Atualmente:
+## Estudando Atualmente 🎓
 
-## Quinto Período - Ciência da Computação - UFU
+### Quinto Período - Ciência da Computação - UFU
+### Santander Coders 2024
 
 
 &nbsp;
