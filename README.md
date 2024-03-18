@@ -17,23 +17,30 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 ## Minhas Skills 💻
 
-#### Linguagens dominadas:
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 45%;">
+        <h4>Linguagens dominadas:</h4>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">&nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
+        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">&nbsp;
+        <img src="https://img.shields.io/badge/SwiftUI-34AADC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">&nbsp;
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">&nbsp;
+    </div>
+    <div style="width: 45%;">
+        <h4>Soft Skills:</h4>
+        <p>🚀 Liderança<br>
+        💡 Resolução criativa de problemas<br>
+        🤝 Trabalho em equipe<br>
+        📚 Aprendizado rápido<br>
+        🎯 Foco e determinação<br>
+        🎓 Curiosidade para aprender<br>
+        🎙️ Oratória</p>
+    </div>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
-![SwiftUI](https://img.shields.io/badge/SwiftUI-34AADC?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
-#### Soft Skills:
-
-🚀 Comunicação eficaz\
-💡 Resolução criativa de problemas\
-🤝 Trabalho em equipe\
-📚 Aprendizado rápido\
-🎯 Foco e determinação
 
 #### Estudando Atualmente:
 
