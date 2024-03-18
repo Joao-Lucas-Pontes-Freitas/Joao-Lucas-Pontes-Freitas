@@ -17,31 +17,30 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 ## Minhas Skills 💻
 
-#### Linguagens dominadas:
-
-<div style="float: left; width: 50%;">
-    <ul style="list-style-type: none; padding-left: 0;">
-        <li> - Python </li>
-        <li> - Java </li>
-        <li> - JavaScript </li>
-        <li> - TypeScript </li>
-        <li> - SQL </li>
-        <li> - SwiftUI </li>
-        <li> - R </li>
-    </ul>
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 45%;">
+        <h4>Linguagens dominadas:</h4>
+        <ul style="list-style-type: none; padding-left: 0;">
+            <li><img src="https://img.icons8.com/color/48/000000/python.png"/> Python</li>
+            <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java</li>
+            <li><img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/> JavaScript</li>
+            <li><img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript</li>
+            <li><img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL</li>
+            <li><img src="https://img.icons8.com/color/48/000000/swift.png"/> SwiftUI</li>
+            <li><img src="https://img.icons8.com/color/48/000000/r.png"/> R</li>
+        </ul>
+    </div>
+    <div style="width: 45%;">
+        <h4>Soft Skills:</h4>
+        <ul style="list-style-type: none; padding-left: 0;">
+            <li>🚀 Comunicação eficaz</li>
+            <li>💡 Resolução criativa de problemas</li>
+            <li>🤝 Trabalho em equipe</li>
+            <li>📚 Aprendizado rápido</li>
+            <li>🎯 Foco e determinação</li>
+        </ul>
+    </div>
 </div>
-
-<div style="float: left; width: 50%;">
-    <h4>Soft Skills:</h4>
-    <ul style="list-style-type: none; padding-left: 0;">
-        <li> Comunicação eficaz </li>
-        <li> Resolução criativa de problemas </li>
-        <li> Trabalho em equipe </li>
-        <li> Aprendizado rápido </li>
-        <li> Foco e determinação </li>
-    </ul>
-</div>
-
 
 
 
