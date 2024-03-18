@@ -27,7 +27,13 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-34AADC?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+#### Soft Skills:
+
+🚀 Comunicação eficaz\
+💡 Resolução criativa de problemas\
+🤝 Trabalho em equipe\
+📚 Aprendizado rápido\
+🎯 Foco e determinação
 
 #### Estudando Atualmente:
 
