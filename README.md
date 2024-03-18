@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=d45980&center=true&vCenter=true&random=false&width=700&height=70&lines=Bem+vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Ol%C3%A1%2C+me+chamo+Rafael+Isidro!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=3000&pause=1000&color=d45980&center=true&vCenter=true&random=false&width=700&height=70&lines=Bem+vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Ol%C3%A1%2C+me+chamo+Joao+Lucas!" />
 </h1>
 &nbsp;&nbsp;&nbsp;
 
@@ -8,8 +8,8 @@
 Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafael-isidro&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafael-isidro&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Joao-Lucas-Pontes-Freitas&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Joao-Lucas-Pontes-Freitas&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
