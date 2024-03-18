@@ -40,8 +40,6 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 🎙️ Oratória\
 💼 Profissionalismo
 
-<img src="https://www.freecodecamp.org/portuguese/news/content/images/size/w2000/2022/09/5f9c9b14740569d1a4ca2991.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ## Estudando Atualmente 🎓
 
 ### Quinto Período - Ciência da Computação - UFU
