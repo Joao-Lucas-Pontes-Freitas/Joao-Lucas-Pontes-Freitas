@@ -43,7 +43,7 @@ Olá, me chamo **João Lucas**, sou um estudante de Ciência da Computação.
 ## Estudando Atualmente 🎓
 
 ### Quinto Período - Ciência da Computação - UFU
-### Santander Coders 2024 - BackEnd em Java
+
 
 
 &nbsp;
